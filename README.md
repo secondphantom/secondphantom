@@ -13,8 +13,12 @@
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-html5-e96228?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-css3-2862e9?style=for-the-badge&logo=css3&logoColor=ffffff)
-## Projects
-
-
 ## Library
-
+- [Youtube Playwright Uploader](https://github.com/secondphantom/node-youtube-video-uploader-playwright-refactor)
+- [SitMap Generator/ Multi Langue Translator](https://github.com/secondphantom/i18n-support-server-module)
+- [Find Process Filter](https://github.com/secondphantom/node-find-process-filter)
+- [Google Search Console Indexer](https://github.com/secondphantom/search-console-indexer)
+## Chrome Extension
+- [Inflean AutoSkip/Speed Up](https://github.com/secondphantom/chrome-extension-inflearn_extend)
+## Boilerplate
+- [NextJs12 multi locale boilerplate](https://github.com/secondphantom/nextjs12-multi-locale-boilerplate)
