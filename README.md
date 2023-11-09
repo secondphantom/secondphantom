@@ -20,5 +20,4 @@
 - [Find Process Filter](https://github.com/secondphantom/node-find-process-filter)
 ## Chrome Extension
 - [Inflean AutoSkip/Speed Up](https://github.com/secondphantom/chrome-extension-inflearn_extend)
-## Boilerplate
-- [NextJs12 multi locale boilerplate](https://github.com/secondphantom/nextjs12-multi-locale-boilerplate)
+
