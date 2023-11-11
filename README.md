@@ -24,5 +24,5 @@
 - [SitMap Generator/ Multi Langue Translator](https://github.com/secondphantom/i18n-support-server-module)
 - [Find Process Filter](https://github.com/secondphantom/node-find-process-filter)
 ## Chrome Extension
-- [Inflean AutoSkip/Speed Up](https://github.com/secondphantom/chrome-extension-inflearn_extend)
+- [Inflearn AutoSkip/Speed Up](https://github.com/secondphantom/chrome-extension-inflearn_extend)
 
