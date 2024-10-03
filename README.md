@@ -1,5 +1,8 @@
 # Hi, I'm SecondPhantom
 
+## Projects
+- [OpenPlaylist](https://github.com/secondphantom/portfolio-server-open-playlist)
+- [DeepTodo](https://github.com/secondphantom/portfolio-deeptodo-spring)
 ## Tech Stack
 ### WEB
 #### Backend
